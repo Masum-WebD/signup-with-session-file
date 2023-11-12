@@ -1,0 +1,4 @@
+user, user@example.com, pass122, taher,
+admin,admin2@example.com, pass122, maher
+user,user2@example.com, pass122, jaher 
+ user, masum@gmail.com, 123456, masum@
